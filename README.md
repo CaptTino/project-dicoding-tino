@@ -6,7 +6,7 @@ To run this dashboard locally, you will need to install the required dependencie
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/CaptTino/bike-tino-dicoding.git
+    git clone https://github.com/CaptTino/project-dicoding-tino.git
     cd your-repository-name
     ```
 
